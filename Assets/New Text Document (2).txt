@@ -1,0 +1,4 @@
+E:
+cd Unity\Crawler
+conda activate mlagents
+mlagents-learn crawler_config.yaml --run-id=CrawlerTraining1 --force

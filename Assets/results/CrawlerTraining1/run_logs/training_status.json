@@ -1,0 +1,47 @@
+{
+    "CrawlerAgent": {
+        "checkpoints": [
+            {
+                "steps": 499894,
+                "file_path": "results\\CrawlerTraining1\\CrawlerAgent\\CrawlerAgent-499894.onnx",
+                "reward": 171.77070713043213,
+                "creation_time": 1793391038.6479142,
+                "auxillary_file_paths": [
+                    "results\\CrawlerTraining1\\CrawlerAgent\\CrawlerAgent-499894.pt"
+                ]
+            },
+            {
+                "steps": 999925,
+                "file_path": "results\\CrawlerTraining1\\CrawlerAgent\\CrawlerAgent-999925.onnx",
+                "reward": null,
+                "creation_time": 1793394532.689456,
+                "auxillary_file_paths": [
+                    "results\\CrawlerTraining1\\CrawlerAgent\\CrawlerAgent-999925.pt"
+                ]
+            },
+            {
+                "steps": 1023382,
+                "file_path": "results\\CrawlerTraining1\\CrawlerAgent\\CrawlerAgent-1023382.onnx",
+                "reward": 112.54687929153442,
+                "creation_time": 1793394682.423001,
+                "auxillary_file_paths": [
+                    "results\\CrawlerTraining1\\CrawlerAgent\\CrawlerAgent-1023382.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1023382,
+            "file_path": "results\\CrawlerTraining1\\CrawlerAgent.onnx",
+            "reward": 112.54687929153442,
+            "creation_time": 1793394682.423001,
+            "auxillary_file_paths": [
+                "results\\CrawlerTraining1\\CrawlerAgent\\CrawlerAgent-1023382.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
